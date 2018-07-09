@@ -22,6 +22,13 @@ year INTEGER,
 series_id INTEGER
 );
 
+CREATE TABLE characters(
+id INTEGER PRIMARY KEY,
+name TEXT,
+year INTEGER,
+series_id INTEGER
+);
+
 
 
 
